@@ -1,0 +1,4 @@
+
+npm create vite@latest fetch-list-app --template react
+cd fetch-list-app
+npm install
